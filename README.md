@@ -9,13 +9,13 @@
   
 - 👨‍💻 A passionate backend developer [from Venezuela](🟦)
   
-- 📝 I’m currently learning **JavaScript**
-  
-- 💬 Ask me about **API Restfull with .NET**
+- 📝 I’m currently learning **front-end web development**
   
 - 📁 All of my projects are available at [![GitHub repository](https://img.shields.io/badge/repository-github-orange)](https://github.com/GerSam05?tab=repositories)
   
 - 📫 How to reach me **gerardosmartinezg@outlook.com**
+
+- ⚡ Fun fact **I think I'm not funny at all**😉
   
 <br>
 <h3 align="left">Connect with me:</h3>
