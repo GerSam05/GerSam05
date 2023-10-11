@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋🏻, I'm GerSam05</h1>
 
 ![Perfil Github](https://github.com/GerSam05/GerSam05/assets/146037370/5a04087a-d785-4dc8-a770-dd291de32d8b)
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=gersam05&label=Profile%20views&color=0e75b6&style=flat" alt="gersam05" /> </p>
+</p>
 
 ## [About myself](🟦) 
     
